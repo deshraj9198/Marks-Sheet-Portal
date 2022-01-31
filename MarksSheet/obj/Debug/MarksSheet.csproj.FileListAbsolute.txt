@@ -1,0 +1,15 @@
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\MarksSheet\MarksSheet\bin\Debug\MarksSheet.exe.config
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\MarksSheet\MarksSheet\bin\Debug\MarksSheet.exe
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\MarksSheet\MarksSheet\bin\Debug\MarksSheet.pdb
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\MarksSheet\MarksSheet\obj\Debug\MarksSheet.csprojResolveAssemblyReference.cache
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\MarksSheet\MarksSheet\obj\Debug\MarksSheet.Properties.Resources.resources
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\MarksSheet\MarksSheet\obj\Debug\MarksSheet.csproj.GenerateResource.Cache
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\MarksSheet\MarksSheet\obj\Debug\MarksSheet.exe
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\MarksSheet\MarksSheet\obj\Debug\MarksSheet.pdb
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\MarksSheet\MarksSheet\obj\Debug\MarksSheet.First.resources
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\MarksSheet\MarksSheet\obj\Debug\MarksSheet.New.resources
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\MarksSheet\MarksSheet\bin\Debug\MarksData.mdf
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\MarksSheet\MarksSheet\bin\Debug\MarksData_log.ldf
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\MarksSheet\MarksSheet\obj\Debug\MarksSheet.Delete.resources
+c:\users\dell\onedrive\documents\visual studio 2012\Projects\MarksSheet\MarksSheet\obj\Debug\MarksSheet.View.resources
+C:\Users\DELL\onedrive\documents\visual studio 2012\Projects\MarksSheet\MarksSheet\obj\Debug\MarksSheet.Update.resources
